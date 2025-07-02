@@ -4,7 +4,7 @@ A simple yet functional calculator built using Python's Tkinter library. This ap
 
 ## 📸 Preview
 
-![Calculator Screenshot](https://github.com/ManthanVerma7/Calculator/blob/main/CalculatorScreenshot.png.png)  
+![Calculator Screenshot](https://github.com/ManthanVerma7/Calculator/blob/main/CalculatorScreenshot.png)
 
 ---
 
